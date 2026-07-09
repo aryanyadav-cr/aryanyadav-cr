@@ -13,6 +13,7 @@
 </p>
 
 <p>
+
 <a href="https://yad-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -39,13 +40,13 @@
 
 # 💫 About Me
 
-🚀 Passionate **Full Stack MERN Developer** focused on building scalable, secure and modern web applications.
+🚀 Passionate **Full Stack MERN Developer** and **BCA Student** dedicated to building secure, scalable, and user-friendly web applications.
 
-- 🔭 Currently building **SafeVault (Password Manager)**
-- 🌱 Learning **Advanced Backend Development & System Design**
-- 💻 Interested in **Software Engineering, AI and Cloud**
-- 🤝 Open to **Internships & Open Source Collaboration**
-- ⚡ Love creating clean and responsive UI with React & Tailwind CSS
+- 🔭 Currently building **SafeVault – Password Manager**
+- 🌱 Learning **Advanced MERN Stack, Backend Development & System Design**
+- 💻 Passionate about **Software Engineering** and **Modern Web Technologies**
+- 🤝 Open to **Internships, Freelance Projects & Open Source Collaboration**
+- ⚡ Enjoy building responsive UIs with **React.js** and robust backend services using **Node.js, Express.js & MongoDB**
 
 ---
 
@@ -82,14 +83,14 @@
 <details>
 <summary><b>🔐 SafeVault - Password Manager</b></summary>
 
-A secure password manager built using the MERN Stack with encrypted credential storage.
+A secure password manager built using the MERN Stack.
 
-| Technology | Details |
-|------------|---------|
-| Frontend | React + Tailwind CSS |
-| Backend | Node.js + Express |
+| Feature | Details |
+|---------|---------|
+| Frontend | React.js + Tailwind CSS |
+| Backend | Node.js + Express.js |
 | Database | MongoDB |
-| Security | CRUD API |
+| APIs | REST API |
 | Live | https://safevault7.netlify.app/ |
 
 </details>
@@ -97,36 +98,34 @@ A secure password manager built using the MERN Stack with encrypted credential s
 <details>
 <summary><b>💼 LinkedIn Clone</b></summary>
 
-Responsive LinkedIn-inspired UI built with React and Tailwind CSS.
+A responsive LinkedIn-inspired web application built with React.js.
 
 </details>
 
 <details>
 <summary><b>🌐 Portfolio Website</b></summary>
 
-Modern responsive portfolio showcasing projects, skills and achievements.
+Personal portfolio showcasing projects, skills, and achievements.
 
-Live
-
-https://yad-portfolio.netlify.app/
+Live: https://yad-portfolio.netlify.app/
 
 </details>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanyadav-cr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanyadav-cr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyadav-cr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav-cr&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav-cr&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyadav-cr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,13 +135,13 @@ https://yad-portfolio.netlify.app/
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanyadav-cr&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryanyadav-cr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -152,13 +151,28 @@ https://yad-portfolio.netlify.app/
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Current Focus
 
-<p align="center">
+```yaml
+Learning:
+  - Advanced MERN Stack
+  - Backend Development
+  - System Design
 
-<img src="https://raw.githubusercontent.com/aryanyadav-cr/aryanyadav-cr/output/github-contribution-grid-snake-dark.svg"/>
+Building:
+  - SafeVault Password Manager
+  - Full Stack Web Applications
 
-</p>
+Exploring:
+  - REST APIs
+  - Authentication
+  - Database Optimization
+
+Open_To:
+  - Software Development Internships
+  - Open Source Collaboration
+  - Freelance Projects
+```
 
 ---
 
@@ -188,7 +202,7 @@ https://yad-portfolio.netlify.app/
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."*
+### ⭐ "Building scalable web applications, one project at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=120&section=footer"/>
 
