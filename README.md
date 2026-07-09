@@ -191,7 +191,7 @@ Built to practice clean component architecture and state-driven UI updates in Re
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanyadav-cr&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryanyadav-cr&theme=radical&no-frame=true&margin-w=10&row=1&column=6" width="90%"/>
 
 </div>
 
