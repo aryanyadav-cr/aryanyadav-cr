@@ -13,13 +13,13 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://yad-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-yadav-1937522b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-yadav-1937522b4)
 [![Email](https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanyadav9660@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanyadav-cr)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanyadav-cr&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
+[![](https://visitcount.itsvg.in/api?id=aryanyadav-cr&icon=0&color=8a2be2)](https://visitcount.itsvg.in)
 [![Followers](https://img.shields.io/github/followers/aryanyadav-cr?style=for-the-badge&color=8a2be2&labelColor=1a0033)](https://github.com/aryanyadav-cr?tab=followers)
 [![Stars](https://img.shields.io/github/stars/aryanyadav-cr?style=for-the-badge&color=8a2be2&labelColor=1a0033)](https://github.com/aryanyadav-cr?tab=repositories)
 
@@ -177,7 +177,7 @@ Built to practice clean component architecture and state-driven UI updates in Re
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-cr&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=A78BFA&icon_color=8A2BE2&text_color=ffffff" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=aryanyadav-cr&theme=radical&hide_border=true&background=1a0033&stroke=8A2BE2&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=aryanyadav-cr&theme=radical&hide_border=true&background=1a0033&stroke=8A2BE2&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
@@ -259,7 +259,7 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanyadav9660@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-yadav-1937522b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-yadav-1937522b4)
 [![GitHub](https://img.shields.io/badge/GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanyadav-cr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://yad-portfolio.netlify.app/)
 
